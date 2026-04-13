@@ -119,5 +119,4 @@ CREATE TABLE covid_india (
 covid-sql-project/
 │── covid_project.sql
 │── README.md
-│── dataset.csv (optional)
 ```
